@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @lastplay-tyt<br>👀 I’m interested in leveraging Artificial Intelligence to solve complex problems and drive innovation.<br>🌱 I’m currently learning advanced techniques in machine learning and deep learning to expand my skill set.<br>💞️ I’m looking to collaborate on exciting data science projects that involve predictive modeling and data-driven decision-making.<br>📫 How to reach me: Feel free to connect with me on LinkedIn to discuss potential collaborations or opportunities.
+👋 Hi, I’m @lastplay-tyt<br>👀 I'm a graduate in AI, with experience with common Python modules such as scikit-learn and PyTorch. <br>🌱 I’m currently learning advanced techniques in machine learning and deep learning to expand my skill set.<br>💞️ I’m looking to collaborate on exciting data science projects that involve predictive modeling and data-driven decision-making.<br>📫 How to reach me: Feel free to connect with me on LinkedIn to discuss potential collaborations or opportunities.
 
 
 ## 🌐 Socials:
